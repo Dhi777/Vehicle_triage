@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+numpy
+torch
+easyocr
+psycopg2-binary
+scikit-learn
+streamlit
+pandas
+scikit-learn
+psycopg2-binary
