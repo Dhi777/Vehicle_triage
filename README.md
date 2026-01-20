@@ -33,7 +33,7 @@ $ source .venv/bin/activate
 $ pip install -r requirements.txt
 
 
-2) Run the batch pipeline:
+### 2) Run the batch pipeline:
 
 $ python3 main.py
 
@@ -41,7 +41,7 @@ $ python3 main.py
 artifacts/results.csv
 
 
-3) Run the dashboard
+### 3) Run the dashboard
 
 $ streamlit run app.py
 
